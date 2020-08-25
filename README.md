@@ -4,7 +4,10 @@ Here are the implementation of some Machine Learning algorithms with python and 
 # Algorithms 
 The following algorithms will be implemented 
 
-- Linear Regression with one feature. 
-- Linear Regression with multiple features. 
-- Logistic Regression for binary classification. 
-- Artificial Neural Network.
+✔ Linear Regression with one feature. 
+
+✔ Linear Regression with multiple features.
+
+✔ Logistic Regression for binary classification.
+
+✔ Artificial Neural Network.
