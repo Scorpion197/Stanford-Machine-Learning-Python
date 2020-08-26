@@ -5,7 +5,7 @@ Here are the implementation of some Machine Learning algorithms I've learned on 
 # Algorithms 
 The following algorithms will be implemented:
 
-✔ Linear Regression with one feature. 
+✔ Linear Regression with one feature ( UniLinear Regression).
 
 ✔ Linear Regression with multiple features.
 
