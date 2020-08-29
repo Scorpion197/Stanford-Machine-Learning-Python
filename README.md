@@ -7,7 +7,7 @@ The following algorithms will be implemented:
 
 ✔ Linear Regression with one feature ( UniLinear Regression).
 
-✔ Linear Regression with multiple features.
+✔ Linear Regression with multiple features (MultiLinear Reg).
 
 ✔ Logistic Regression for binary classification.
 
