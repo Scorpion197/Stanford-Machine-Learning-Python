@@ -9,4 +9,4 @@ The following algorithms will be implemented:
 
 ✔ Linear Regression with multiple features (MultiLinear Reg).
 
-✔ Artificial Neural Network.
+✔ Artificial Neural Network. (Will be implemented as soon as possible)
